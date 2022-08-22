@@ -1,10 +1,10 @@
 ## warceuproject.github.io
-ok this is my [website](warceuproject.github.io)
+ok this is my [website](https://warceuproject.github.io)
 
 ```
             ♧WARCEU PROJECT♧
 Founder and CEO: Ers ID (Muhammad Eris)
-Ccreated Organitations to 16 november 2021
+Created Organitations to 16 november 2020
              Copyright@2022
 ____________________________________________
 This project open source for template website
