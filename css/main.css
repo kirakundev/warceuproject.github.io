@@ -307,7 +307,7 @@ header{
  padding: 10px;
  overflow: hidden;
  white-space: nowrap;
- animation: typing 3s steps(24) 2s infinite;
+ animation: typing 5s steps(24) 4s infinite;
  }
 #typing span{
  color:green;
@@ -324,7 +324,7 @@ header{
       width: 0;
   }
    to {
-      width: 230px;
+      width: 240px;
    }
 }
 @keyframes crow {
