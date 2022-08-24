@@ -89,6 +89,7 @@ a, a:link, a:hover, a:active, a:visited {
 	overflow-y: scroll;
 	overflow-wrap: break-word;
 	word-break: break-all;
+	
 }
 
 .console .row:last-child {
